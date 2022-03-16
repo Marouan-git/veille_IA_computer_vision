@@ -13,7 +13,7 @@ Veille technologique sur les outils Azure de vision par ordinateur
 
 **Tests**
 
-3 démonstrations sont disponibles dans le dossier demo : la détection de visage, la détection d'objets et de l'OCR.
+3 démonstrations sont disponibles dans le dossier demo : la détection de visage, la détection d'objets et l'OCR.
 
 **Activité**
 
